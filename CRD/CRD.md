@@ -1,8 +1,3 @@
-Here’s a **clean, well-structured `CRD.md`** you can directly upload to GitHub.
-It’s written in a documentation style that works well for repos, onboarding, and future reference.
-
----
-
 # Custom Resource Definitions (CRDs) in Kubernetes
 
 ## Overview
@@ -364,3 +359,5 @@ kubectl delete crd websites.example.com
 CRDs are a foundational building block for **Kubernetes Operators** and advanced platform engineering.
 
 ---
+
+
